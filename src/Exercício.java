@@ -12,11 +12,11 @@ public class Exercício {
 	}
 
 	public static int proximo(int num) {
-		return num + 1;
+		return somar (num, 1);
 	}
 
 	public static int dobro(int num) {
-		return num + num;
+		return somar(num, num);
 	}
 
 }

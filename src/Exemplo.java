@@ -1,5 +1,3 @@
-import java.awt.Dialog;
-
 public class Exemplo {
 
 	public static void main(String[] args) {
@@ -8,7 +6,7 @@ public class Exemplo {
 		ehMaiorIdade(524);
 		classificar(20);
 		System.out.println("Nome:" + concatenar("Andreas", "Faria"));
-		System.out.println("Quantidade:" + tamanhoNomeCompleto()));
+		System.out.println("Quantidade:" + tamanhoNomeCompleto());
 	}
 
 	 //public=todos acessam; 
